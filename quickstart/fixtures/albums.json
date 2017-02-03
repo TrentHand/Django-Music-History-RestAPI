@@ -1,0 +1,20 @@
+[
+  {
+    "model": "quickstart.album",
+    "pk": 1,
+    "fields": {
+      "name": "Far Beyond Driven",
+      "genre": 1,
+      "artist": 1 
+    }
+  },
+  {
+    "model": "quickstart.album",
+    "pk": 2,
+    "fields": {
+      "name": "Neon Ballroom",
+      "genre": 1,
+      "artist": 2 
+    }
+  }  
+]

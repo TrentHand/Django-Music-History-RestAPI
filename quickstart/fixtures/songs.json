@@ -1,0 +1,22 @@
+[
+  {
+    "model": "quickstart.song",
+    "pk": 1,
+    "fields": {
+      "name": "Becoming",
+      "genre": 1,
+      "album": 1,
+      "artist": 1 
+    }
+  },
+  {
+    "model": "quickstart.song",
+    "pk": 2,
+    "fields": {
+      "name": "Ana's Song",
+      "genre": 1,
+      "album": 2,
+      "artist": 2 
+    }
+  }  
+]
