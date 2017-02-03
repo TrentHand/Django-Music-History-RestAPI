@@ -1,0 +1,16 @@
+[
+  {
+    "model": "quickstart.genre",
+    "pk": 1,
+    "fields": {
+      "name": "Rock"
+    }
+  },  
+  {
+    "model": "quickstart.genre",
+    "pk": 2,
+    "fields": {
+      "name": "Jazz"
+    }
+  }  
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "model": "quickstart.artist",
+    "pk": 1,
+    "fields": {
+      "name": "Pantera",
+      "genre": 1
+    }
+  },  
+  {
+    "model": "quickstart.artist",
+    "pk": 2,
+    "fields": {
+      "name": "Silverchair",
+      "genre": 1
+    }
+  }  
+]
