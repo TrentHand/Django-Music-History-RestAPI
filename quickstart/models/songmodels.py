@@ -5,7 +5,12 @@ from .genremodels import Genre
 
 class Song(models.Model):
     """
-    Stores a single Song,
+    Stores a single Album
+    fields:
+    'name' is a character field
+    'album' is a foreign key
+    'genre' is a foreign key
+    'artist' is a foreign key
     """
     name = models.CharField(max_length=55)
     album = models.ForeignKey(Album, on_delete=models.CASCADE)
